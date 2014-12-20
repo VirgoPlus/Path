@@ -1,18 +1,18 @@
 body {
 color:black;
 }
-
-#p1 {
-	color: blue;
-	
+style {
+#header 
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
 }
-
-.paragraaf {
-	background-color: #ff1122;
-}
-
-.box {
-	width: 200px;
-	height: 200px;
-	background-color: red;
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
