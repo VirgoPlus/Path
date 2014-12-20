@@ -1,3 +1,18 @@
 body {
-color:red;
+color:black;
+}
+
+#p1 {
+	color: blue;
+	
+}
+
+.paragraaf {
+	background-color: #ff1122;
+}
+
+#zoomtryout {
+	width: 200px;
+	height: 200px;
+	background-color: #112233;
 }
