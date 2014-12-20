@@ -11,8 +11,8 @@ color:black;
 	background-color: #ff1122;
 }
 
-#zoomtryout {
+.box {
 	width: 200px;
 	height: 200px;
-	background-color: #112233;
+	background-color: red;
 }
